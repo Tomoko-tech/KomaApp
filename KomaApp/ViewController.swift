@@ -232,6 +232,8 @@ class ViewController: UIViewController,UIPickerViewDelegate,UIPickerViewDataSour
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        print("あいうえお")
+        
         pickerView.delegate = self
         pickerView.dataSource = self
         
