@@ -261,6 +261,7 @@ class ViewController: UIViewController,UIPickerViewDelegate,UIPickerViewDataSour
         
         
         setupScrollView()
+        print("あいうえお")
     }
     
     
